@@ -10,7 +10,7 @@
 <p align="left">
 <a href="https://twitter.com/rasel_dev99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rasel_dev99" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/raseldev99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raseldev99" height="30" width="40" /></a>
-<a href="https://facebook.com/raseldev99" target="blank"><img align="center" src="[https://img.icons8.com/?size=256&id=uLWV5A9vXIPu&format=png](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F14063%2Ffacebook&psig=AOvVaw1WaMWA5H2xasG5M1gq3vzd&ust=1699853976105000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCMDajOLfvYIDFQAAAAAdAAAAABAJ)" alt="raseldev99" height="30" /></a>
+<a href="https://facebook.com/raseldev99" target="blank"><img align="center" src="[https://img.icons8.com/?size=256&id=uLWV5A9vXIPu&format=png](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F14063%2Ffacebook&psig=AOvVaw1WaMWA5H2xasG5M1gq3vzd&ust=1699853976105000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCMDajOLfvYIDFQAAAAAdAAAAABAJ)" alt="raseldev99" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
