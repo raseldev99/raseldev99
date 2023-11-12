@@ -11,7 +11,6 @@
 <a href="https://twitter.com/rasel_dev99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rasel_dev99" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/raseldev99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raseldev99" height="30" width="40" /></a>
 <a href="https://facebook.com/raseldev99" target="blank"><img align="center" src="https://img.icons8.com/?size=256&id=uLWV5A9vXIPu&format=png" alt="raseldev99" height="30" /></a>
-    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/raseldev99)]  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
