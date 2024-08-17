@@ -2,7 +2,7 @@
 <h3 align="center">Skilled Laravel Developer for Complex Web Apps and Dynamic Websites</h3>
 <p align="left"> <a href="https://twitter.com/rasel_dev99" target="blank"><img src="https://img.shields.io/twitter/follow/rasel_dev99?logo=twitter&style=for-the-badge" alt="rasel_dev99" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel 10,React,vue 3,nuxt 3**
+- 🌱 I’m currently learning **Laravel 11,React,vue 3,nuxt 3**
 
 - 📫 How to reach me **raseldev99@gmail.com**
 
