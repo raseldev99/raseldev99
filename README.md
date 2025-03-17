@@ -27,4 +27,3 @@
 <a href="https://twitter.com/rasel_dev99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rasel_dev99" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/raseldev99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raseldev99" height="30" width="40" /></a>
 </p>
-<p align="left" dir="auto"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://camo.githubusercontent.com/5ae6174bc3ca01f349c4a13b6ec226d0230c9d88b85c4dfb240353335420c059/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d417269667572446576" alt="ArifurDev" data-canonical-src="https://github-profile-trophy.vercel.app/?username=ArifurDev" style="max-width: 100%;"></a> </p>
